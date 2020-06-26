@@ -1,21 +1,27 @@
 {
-    "name": "vampire-theme",
-    "displayName": "vampire theme",
-    "description": "This is a theme for night owls",
-    "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.46.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Vampire Theme",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Vampire Theme-color-theme.json"
-            }
-        ]
-    }
+  "name": "vampire-theme",
+  "displayName": "vampire theme",
+  "description": "This is a theme for night owls",
+  "version": "0.0.1",
+  "publisher": "vampire-theme",
+  "icon": "icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pmrjayawardena/vampire-theme"
+  },
+  "engines": {
+    "vscode": "^1.46.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Vampire Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Vampire Theme-color-theme.json"
+      }
+    ]
+  }
 }

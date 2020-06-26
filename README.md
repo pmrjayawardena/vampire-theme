@@ -1,13 +1,24 @@
-# README
-## This is the README for your extension "vampire-theme"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Vampire Theme 🦇
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+A Visual Studio Code theme for the night owls out there. This is optimized for those who codes at night. Color choices have taken into consideration what is accessible to people with colorblindness and in low-light circumstances.
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+About this theme, and some of the considerations made while creating it (as well as _how_ to create it should you want to make your own): [https://css-tricks.com/creating-a-vs-code-theme/](https://css-tricks.com/creating-a-vs-code-theme/)
 
-**Enjoy!**
+## Vampire Theme
+
+![First Screen](first.png)
+![Second Screen](second.png)
+
+# Installation
+
+1.  Install [Visual Studio Code](https://code.visualstudio.com/)
+2.  Launch Visual Studio Code
+3.  Choose **Extensions** from menu
+4.  Search for `vampire-theme`
+5.  Click **Install** to install it
+6.  Click **Reload** to reload the Code
+7.  From the menu bar click: Code > Preferences > Color Theme > **Vampire Theme**
+
+## Other versions
+
+The community is awesome and has ported this theme over to other environments.
